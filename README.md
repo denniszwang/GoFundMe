@@ -1,4 +1,9 @@
 # Crowdfunding App
+
+## Projecgt Architecture
+![Project Architecture Graph](project%20architecture.jpg)
+
+## Run App
 Pass "admin 12345" to UserInterface to run the program
 
 ## Organizer
