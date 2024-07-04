@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This project is a GoFundMe-inspired platform that enables users to support and initiate fundraising campaigns through a seamless front and backend service. Whether creating organizations, setting up contributor profiles, or making donations, users can easily navigate our web interface or use a Java-based terminal application for a more hands-on approach. Designed to be accessible and versatile, our platform empowers individuals and organizations to make a meaningful impact, one donation at a time. Detailed features and implementation guides are available in our project's wiki documentation.
 
@@ -161,6 +161,7 @@ The application's capabilities are organized into the following main categories,
 - **Password Encryption**: Protect user passwords with encryption.
 - **New User Registration**: Register a new account on the platform.
 - **Change Password**: Allow users to update their passwords.
+- **Edit Fund**: Permit the edition of funds from the system.
 - **Delete Fund**: Permit the deletion of funds from the system.
 
 _For more detailed feature information, please refer to the [Documentation](https://github.com/denniszwang/GoFundMe/blob/main/wiki.md)._
