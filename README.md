@@ -58,7 +58,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project is a GoFundMe-inspired platform that enables users to support and initiate fundraising campaigns through a seamless front and backend service. Whether creating organizations, setting up contributor profiles, or making donations, users can easily navigate our web interface or use a Java-based terminal application for a more hands-on approach. Designed to be accessible and versatile, our platform empowers individuals and organizations to make a meaningful impact, one donation at a time. Detailed features and implementation guides are available in our project's wiki documentation.
+This project is a GoFundMe-inspired platform that enables users to support and initiate fundraising campaigns through a seamless front and backend service. Whether creating organizations, setting up contributor profiles, or making donations, users can easily navigate our web interface or use a Java-based terminal application for a more hands-on approach. Designed to be accessible and versatile, our platform empowers individuals and organizations to make a meaningful impact, one donation at a time.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,10 +85,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Node.js
 * MongoDB
 
 ### Installation
@@ -103,7 +100,7 @@ This is an example of how to list things you need to use the software and how to
   - **Install Node.js: Make sure Node.js is installed on your system.
   - **Install Node Packages: Navigate to the project directory and install the required npm packages. Run this command with administrator privileges.
     ```sh
-      npm install
+      npm install npm@latest -g
     ```
    
 3. **Install MongoDB**
