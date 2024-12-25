@@ -1,0 +1,13 @@
+#Tue Dec 24 22:41:26 EST 2024
+path.3=3/classes.dex
+path.2=11/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=/Users/denniswang/Desktop/fundme/contributor/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/3/classes.dex
+base.2=/Users/denniswang/Desktop/fundme/contributor/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/11/classes.dex
+base.1=/Users/denniswang/Desktop/fundme/contributor/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.0=/Users/denniswang/Desktop/fundme/contributor/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

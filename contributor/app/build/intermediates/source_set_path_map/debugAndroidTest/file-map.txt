@@ -1,0 +1,5 @@
+edu.upenn.cis573.project.test.app-androidTest-0 /Users/denniswang/Desktop/fundme/contributor/app/build/generated/res/resValues/androidTest/debug
+edu.upenn.cis573.project.test.app-androidTest-1 /Users/denniswang/Desktop/fundme/contributor/app/build/generated/res/rs/androidTest/debug
+edu.upenn.cis573.project.test.app-mergeDebugAndroidTestResources-2 /Users/denniswang/Desktop/fundme/contributor/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+edu.upenn.cis573.project.test.app-mergeDebugAndroidTestResources-3 /Users/denniswang/Desktop/fundme/contributor/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+edu.upenn.cis573.project.test.app-merged_res-4 /Users/denniswang/Desktop/fundme/contributor/app/build/intermediates/merged_res/debugAndroidTest

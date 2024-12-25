@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.upenn.cis573.project.DataManager_getFundName_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-25T03:41:07" hostname="Denniss-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="testSuccess" classname="edu.upenn.cis573.project.DataManager_getFundName_Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
